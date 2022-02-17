@@ -1,1 +1,2 @@
-x = 0
+x = None + ' '
+print(x)
