@@ -1,4 +1,4 @@
-
+# The author and creator of all work is Christopher Monk.
 
 def display_game(places):
     print(f'{places[0]}|{places[1]}|{places[2]}')
